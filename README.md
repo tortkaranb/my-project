@@ -23,6 +23,3 @@
 - `docs/diagrams/`: диаграммалар
 
 
-
-Tortkara Nurzhan
-is 24-01 
