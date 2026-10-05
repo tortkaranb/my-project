@@ -23,3 +23,5 @@
 - `docs/diagrams/`: диаграммалар
 
 
+
+Tortkara Nurzhan
