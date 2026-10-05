@@ -21,3 +21,5 @@
 - `docs/requirements.md`: жүйеге қойылатын талаптар
 - `docs/use-case.md`: Use Case сценарийлері
 - `docs/diagrams/`: диаграммалар
+
+------------------
